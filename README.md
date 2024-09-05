@@ -1,4 +1,4 @@
-# Password Strength Checker
+# Password Strength Analyzer
 
 # Overview
 This is a web-based password strength checker that provides real-time feedback on password strength with a dynamic progress bar.
