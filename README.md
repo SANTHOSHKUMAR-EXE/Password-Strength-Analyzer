@@ -3,6 +3,8 @@
 # Overview
 This is a web-based password strength checker that provides real-time feedback on password strength with a dynamic progress bar.
 
+https://www.passwordstrengthanalyzer.tech/
+
 # Features
 - Evaluates password based on length, uppercase, lowercase, numbers, and special characters.
 - Provides a visual progress bar and a message indicating the strength (Weak, Medium, Strong).
